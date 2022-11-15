@@ -19,3 +19,5 @@ print("Затраченное время: ", round(float(end), 4))
 # ----- 1 stroka -----
 
 # ----- 2 stroka -----
+
+# ----- 3 stroka -----
